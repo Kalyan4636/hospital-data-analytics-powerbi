@@ -51,10 +51,11 @@ hospital-data-powerbi-dashboard/
 │
 ├── Hospital_Analytics_Dashboard.pbix
 ├── Dataset/
-[Papollo-Healtcare-Dataset.xlsx](https://github.com/user-attachments/files/31519194/Papollo-Healtcare-Dataset.xlsx)
+https://github.com/Kalyan4636/hospital-data-analytics-powerbi/blob/main/Papollo-Healtcare-Dataset.xlsx
 
 ├── Screenshots/
-<img width="699" height="459" alt="Screenshot 2026-08-27 190352" src="https://github.com/user-attachments/assets/9ce47652-ef81-47e4-b7f0-01c3ac9cbefd" />
+<img width="699" height="459" alt="Screenshot 2026-08-27 190352" src="https://github.com/user-attachments/assets/94cdaf5c-4338-4b9b-a68c-b3058095ea1c" />
+
 
 └── README.md
 ```
