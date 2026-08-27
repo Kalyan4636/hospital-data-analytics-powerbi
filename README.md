@@ -49,16 +49,15 @@ This dashboard helps healthcare stakeholders monitor important metrics, identify
 ```text
 hospital-data-powerbi-dashboard/
 │
-├── Hospital_Analytics_Dashboard.pbix
+├── Hospital_Analytics_Dashboard.pbix 
 ├── Dataset/
-https://github.com/Kalyan4636/hospital-data-analytics-powerbi/blob/main/Papollo-Healtcare-Dataset.xlsx
-
 ├── Screenshots/
-<img width="699" height="459" alt="Screenshot 2026-08-27 190352" src="https://github.com/user-attachments/assets/94cdaf5c-4338-4b9b-a68c-b3058095ea1c" />
-
-
-└── README.md
+└── README.md 
 ```
+## Dataset/  
+https://github.com/Kalyan4636/hospital-data-analytics-powerbi/blob/main/Papollo-Healtcare-Dataset.xlsx
+## Screenshots/ 
+<img width="699" height="459" alt="Screenshot 2026-08-27 190352" src="https://github.com/user-attachments/assets/94cdaf5c-4338-4b9b-a68c-b3058095ea1c" /> 
 
 ## 🚀 Skills Demonstrated
 
