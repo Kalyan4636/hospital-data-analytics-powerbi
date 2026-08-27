@@ -67,4 +67,6 @@ https://github.com/Kalyan4636/hospital-data-analytics-powerbi/blob/main/Papollo-
 
 ⭐ If you find this project useful, feel free to **star the repository** and connect with me for more Data Analytics projects.
 
-**Created by Aditya Kalyan | Data Analyst & Data Analytics Trainer**
+**Created by Aditya Kalyan | Data Analyst & Data Analytics Trainer**   
+🟥 𝐌𝐚𝐤𝐞 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧 𝐖𝐢𝐭𝐡 𝐔𝐬 𝐎𝐧 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 🟥 
+www.linkedin.com/in/adityaakalyan
